@@ -10,7 +10,6 @@ I currently know and am learning these languages:
 * V
 * C/C++
 * C#
-* Lua
 
 ### 📫 Contact me
 
@@ -29,11 +28,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ### 🔭 My Projects
 * [**The Rivet programming language**](https://github.com/rivet-lang/rivet)
 * [**Stuge - A 2D top-down game engine**](https://github.com/StunxFS/stuge)
+
+-->
 
 ### ⚡ Stats
 
